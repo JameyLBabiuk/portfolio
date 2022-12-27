@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:45:08	315/315	---M--	404	error ('Not%20Found')	text/html	date:Sat,%2024%20Dec%202022%2007:45:07%20GMT	https://htmlandcssportfolio.com/robots.txt		(from )
+10:45:10	5510/5510	---M-Z	200	added ('OK')	text/html	etag:%22554007e-13d5-5b4041803a703-gzip%22	https://htmlandcssportfolio.com/	htmlandcssportfolio.com/index.html	(from )
+10:45:10	12829/12829	---M-Z	200	added ('OK')	text/css	etag:%2255400e7-321d-5b4015ccdb96d-gzip%22	https://htmlandcssportfolio.com/stylesheet/portfolio.css	htmlandcssportfolio.com/stylesheet/portfolio.css	(from https://htmlandcssportfolio.com/)
+10:45:14	177212/177212	---M--	200	added ('OK')	image/jpeg	etag:%2255400e0-2b43c-5b3fc4e8e4282%22	https://htmlandcssportfolio.com/images/Development.jpg	htmlandcssportfolio.com/images/Development.jpg	(from https://htmlandcssportfolio.com/)
+10:45:15	49971/49971	---M--	200	added ('OK')	image/png	etag:%2255400e1-c333-5b3fc4e9537c8%22	https://htmlandcssportfolio.com/images/GitHub.png	htmlandcssportfolio.com/images/GitHub.png	(from https://htmlandcssportfolio.com/)
+10:45:16	193372/193372	---M--	200	added ('OK')	image/jpeg	etag:%2255400e4-2f35c-5b3fc4eabec5d%22	https://htmlandcssportfolio.com/images/Contact.jpg	htmlandcssportfolio.com/images/Contact.jpg	(from https://htmlandcssportfolio.com/)
+10:47:18	3556940/3556940	---M--	200	added ('OK')	video/mp4	etag:%2255400e5-36464c-5b3fc4eda7a7f%22	https://htmlandcssportfolio.com/images/video/Typing.mp4	htmlandcssportfolio.com/images/video/Typing.mp4	(from https://htmlandcssportfolio.com/)
